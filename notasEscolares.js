@@ -1,6 +1,6 @@
 // FUNÇÃO CRIADA POR MIM
 
-/*let score = 100;
+let score = 100;
 
 if(score > 100){
     console.log(`Nota não aceitável`)
@@ -17,7 +17,7 @@ if(score > 100){
 } else if (score < 0) {
     console.log(`Nota não aceitável`)}
 
-console.log(`Fim do programa`)*/
+console.log(`Fim do programa`)
 
 
 // FUNÇÃO CRIADA PELO CURSO
